@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\bin\Debug\wForms_Members.exe.config
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\bin\Debug\wForms_Members.exe
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\bin\Debug\wForms_Members.pdb
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.Form1.resources
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.Properties.Resources.resources
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.exe
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.pdb
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.ItemForm.resources
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.SplashScreen.resources
+C:\Users\Dell\source\repos\wForms_Members\wForms_Members\obj\Debug\wForms_Members.Section.resources
